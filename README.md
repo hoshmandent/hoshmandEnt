@@ -19,10 +19,7 @@ I build systems, challenge norms, and resist the invisible forces that shape ord
 and dedicate my life to conquering limits — not accepting them.
 
 ---
-
-## 🛠 Tech Arsenal
 **Django** • Python • Linux • Nginx • C++ • Flutter • React Native • MQTT • WebSockets • CI/CD • Cloud Computing • More...
-
 ---
 
 ![snake gif](https://raw.githubusercontent.com/HoshmandENT/HoshmandENT/refs/heads/main/snake.svg)
