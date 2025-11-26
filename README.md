@@ -18,8 +18,11 @@ DevOps & Software Engineer | Entrepreneur | Systems Architect
 I build systems, challenge norms, and resist the invisible forces that shape ordinary minds.  
 and dedicate my life to conquering limits — not accepting them.
 
+
 ---
-**Django** • Python • Linux • Nginx • C++ • Flutter • React Native • MQTT • WebSockets • CI/CD • Cloud Computing • More...
+
+**Django** • Python • Linux • Nginx • C++ • Flutter • React Native • MQTT • WebSockets • CI/CD • Cloud Computing
+
 ---
 
 ![snake gif](https://raw.githubusercontent.com/HoshmandENT/HoshmandENT/refs/heads/main/snake.svg)
