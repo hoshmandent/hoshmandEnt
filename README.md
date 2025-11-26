@@ -5,7 +5,7 @@
 
 <!-- Typing Header (GitHub-safe version) -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hoshmand+Qadir;Builder.+Founder.+Resister.">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hoshmand+M.+Qadir;Builder.+Founder.+Resister.">
 </p>
 
 ---
