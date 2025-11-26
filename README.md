@@ -27,7 +27,7 @@ and dedicate my life to conquering limits — not accepting them.
 
 ---
 
-![snake gif](https://raw.githubusercontent.com/HoshmandENT/HoshmandENT/main/dist/snake.svg)
+![snake gif](https://raw.githubusercontent.com/HoshmandENT/HoshmandENT/refs/heads/main/snake.svg)
 ---
 
 ### 👁️ Visitor Counter  
