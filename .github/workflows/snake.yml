@@ -1,0 +1,38 @@
+name: Generate Contribution Snake
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ Checkout the repository (preserve everything)
+      - name: Checkout repo
+        uses: actions/checkout@v3
+        with:
+          persist-credentials: true  # use token
+          fetch-depth: 0             # fetch full history
+
+      # 2️⃣ Generate the snake SVG in a temporary folder
+      - name: Generate Snake SVG
+        uses: Platane/snk@v3
+        with:
+          github_user_name: HoshmandENT
+          outputs: dist/snake.svg
+
+      # 3️⃣ Commit and push only the snake SVG
+      - name: Commit and Push Snake
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          mkdir -p dist
+          mv dist/snake.svg dist/snake.svg
+          git add dist/snake.svg
+          git commit -m "Update contribution snake [skip ci]" || echo "No changes to commit"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GH_PAT }}
