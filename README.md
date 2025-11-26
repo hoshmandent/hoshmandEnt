@@ -10,8 +10,6 @@
 
 ---
 
-# Hoshmand — Builder. Founder. Resister.
-
 **CEO & Founder @ Technostro**  
 DevOps & Software Engineer | Entrepreneur | Systems Architect
 
@@ -30,7 +28,6 @@ and dedicate my life to conquering limits — not accepting them.
 ![snake gif](https://raw.githubusercontent.com/HoshmandENT/HoshmandENT/refs/heads/main/snake.svg)
 ---
 
-### 👁️ Visitor Counter  
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=HoshmandENT&style=for-the-badge">
 </p>
@@ -40,10 +37,7 @@ and dedicate my life to conquering limits — not accepting them.
 
 
 ---
-
-## 💼 Contact  
-📧 **hoshmand@technostro.com**
-
+**hoshmand@technostro.com**
 ---
 
 <p align="center">
