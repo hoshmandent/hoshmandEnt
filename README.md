@@ -31,7 +31,7 @@ and dedicate my life to conquering limits — not accepting them.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HoshmandENT&theme=monokai&row=1&column=7">
 </p>
----
+
 
 <p align="center">
   <i>“The man who thinks he can — and the man who thinks he can’t — are both right.”</i>
