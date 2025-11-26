@@ -31,10 +31,6 @@ and dedicate my life to conquering limits — not accepting them.
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=HoshmandENT&theme=monokai&row=1&column=7">
 </p>
-
-
----
-**hoshmand@technostro.com**
 ---
 
 <p align="center">
