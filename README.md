@@ -1,9 +1,7 @@
-<!-- Technostro Logo -->
 <p align="center">
   <img src="https://assets.technostro.com/technostro%2Fstatic%2Ftechno_web%2Fimages%2Flogo.png" width="140">
 </p>
 
-<!-- Typing Header (GitHub-safe version) -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=800&color=00C4FF&center=true&vCenter=true&width=600&lines=Hoshmand+M.+Qadir;Builder.+Founder.+Resister.">
 </p>
@@ -21,7 +19,25 @@ and dedicate my life to conquering limits — not accepting them.
 
 ---
 
-**Django** • Python • Linux • Nginx • C++ • Flutter • React Native • MQTT • WebSockets • CI/CD • Cloud Computing
+## 🛠 Tech Arsenal
+
+**Languages & Frameworks:**  
+Python • JavaScript/TypeScript • Node.js • Django • Flask • React • React Native • Flutter • C++  
+
+**Databases:**  
+PostgreSQL • Redis  
+
+**DevOps & Cloud:**  
+Docker • Kubernetes • CI/CD (GitHub Actions, Jenkins, GitLab CI) • Nginx • Ansible • Prometheus & Grafana  
+
+**Web & APIs:**  
+REST • GraphQL • WebSockets • MQTT • Webpack • Vite • Nginx • OAuth & JWT  
+
+**Tools & Productivity:**  
+Git/GitHub • Linux/Bash • Postman • Obsidian
+
+**Testing & QA:**  
+Unit Testing • Integration Testing • Selenium • Pytest  
 
 ---
 
